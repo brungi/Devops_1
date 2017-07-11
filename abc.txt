@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-bvkofdbjvbndfbjkdnfbjkdflkfllnlbdnflbkjdnfbldnflining		
-dsjvsf;sdkv;sdkvds;vkds;l
-ddfdfdfdsdd
-
-ettttttdt
-
-vijaybhaskar
-
-hyderabad, india
-bye
-heloooooooooooo
-
-suresh
-vijay
-rjegn;ekrnklgjer'l;gkerkger
-rengkjkergerl;gler;lgnrel;kgrke
-hi
-
-
-hi
-=======
 #include<stdio.h>
  
 int main()
@@ -35,4 +13,4 @@ int main()
  
    return 0;
 }
->>>>>>> e79864d6d53a533620fe262ba8414b239171a933
+
