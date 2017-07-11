@@ -1,19 +1,15 @@
-bvkofdbjvbndfbjkdnfbjkdflkfllnlbdnflbkjdnfbldnflining		
-dsjvsf;sdkv;sdkvds;vkds;l
-ddfdfdfdsdd
-
-ettttttdt
-
-vijaybhaskar
-
-hyderabad, india
-
-
-suresh
-vijay
-rjegn;ekrnklgjer'l;gkerkger
-rengkjkergerl;gler;lgnrel;kgrke
-hi
-
-
-hi
+#include<stdio.h>
+ 
+int main()
+{
+   int a, b, c;
+ 
+   printf("Enter two numbers to add\n");
+   scanf("%d%d",&a,&b);
+ 
+   c = a + b;
+ 
+   printf("Sum of entered numbers = %d\n",c);
+ 
+   return 0;
+}
